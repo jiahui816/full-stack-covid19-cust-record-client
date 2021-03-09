@@ -13,5 +13,5 @@ https://wb-covid19-resgistration.netlify.app/
 
 # Server Side - Hosted on Heroku
 
-https://customer-cov19-record-server.herokuapp.com/api/logs
+Web - https://customer-cov19-record-server.herokuapp.com/api/logs <br />
 Code - https://github.com/jiahui816/full-stack-covid19-cust-record-server
